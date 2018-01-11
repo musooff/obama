@@ -13,7 +13,7 @@ def download_videos():
 ```
 The given code download videos with their subtitles as srt file. We need subtitles for the next stage of our work. An example video and subtitle is *"Weekly Address - Extending and Expanding..."* within directory. 
 ## 2nd stage: Cutting videos by sentences
-
+Now since we have videos and subtitles of those videos we can cut these videos according to sentences timings. 
 ## 3rd stage: Speech Recognition
 ## 4th stage: Cutting words according to timestamp
 ## 5th stage: Downloading Lyrics and professional singer
