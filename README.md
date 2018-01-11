@@ -11,7 +11,7 @@ def download_videos():
             with youtube_dl.YoutubeDL(ydl_opts) as ydl:
                 ydl.download([video_urls[x]])
 ```
-The given code download videos with their subtitles as srt file. We need subtitles for the next stage of our work. An example video and subtitle is "Weekly Address - Extending and Expanding..." within directory. 
+The given code download videos with their subtitles as srt file. We need subtitles for the next stage of our work. An example video and subtitle is *"Weekly Address - Extending and Expanding..."* within directory. 
 ## 2nd stage: Cutting videos by sentences
 
 ## 3rd stage: Speech Recognition
