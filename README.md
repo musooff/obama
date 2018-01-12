@@ -76,8 +76,62 @@ def cut_words():
 				words_str = k.read()
 				...
 ```
-This function will cut the sentence according to the times within *keywords* file. It writes all video and audio files of the each word within *words* folder within the sentence folder. An example for the word in our case is *actually help working families get ahead. /words/actually/0.mp4* for the word **actually**. Within *actually* folder we will have audio and video files with chronological order if there are more than one appeareance of the word within that sentences. 
+This function will cut the sentence according to the times within *keywords* file. It writes all video and audio files of the each word within *words* folder within the sentence folder. An example for the word in our case is *actually help working families get ahead. /words/actually/0.mp4* for the word \*actually\*. Within *actually* folder we will have audio and video files with chronological order if there are more than one appeareance of the word within that sentences.
 ## 5th stage: Downloading Lyrics and professional singer
+Now we need to download lyrics and professional singer's singing. By lyrics we mean word-by-word lyrics of the song. It will be karaoke style in which we know staring time and end time of the each word. For this we will use karaoke-version.org. In fact karaoke-version.org is paid service and one should buy their singings and lyrics. What we do is track down how the system collects data from their server and download what we need from their server. For downloading lyrics its a bit tricky. For now I am downloading lyrics manually. One can write script on python to scrawl the website and download automatically. Automatisization can be done analogously. To download manually follow, these steps:
+- Go to karafun.com (It's subsidery of karaoke-version.com)
+- Open "Inspect Element" of your browser (works clearner on Firefox)
+- Navigate to "Network" of Insect Element
+- Search for the song you want at karafun.com
+- There will be now new request at Network and that should have request url
+- Go to that url and bam, you have lyrics of the song according to the word. (Note that url will be available for couple of minutes, after a while it will not be accessable)
+- Save the lyrics to some xml file.
+Following above steps we have *shape_of_you.xml* file that includes word by word lyrics of the Shape Of You by Ed Sheeran. The timing will look like
+``` xml
+<line id="3">
+	<position x="128.50" width="383" y="120.90" height="52"/>
+		<word id="1">
+			<syllabe>
+				<start>00:00:00,660</start>
+				<end>00:00:00,820</end>
+				<text>Come</text>
+			</syllabe>
+		</word>
+		<word id="2">
+			<syllabe>
+				<start>00:00:00,820</start>
+				<end>00:00:01,130</end>
+				<text>on</text>
+			</syllabe>
+		</word>
+		<word id="3">
+			<syllabe>
+				<start>00:00:01,130</start>
+				<end>00:00:01,440</end>
+				<text>be</text>
+			</syllabe>
+		</word>
+		<word id="4">
+			<syllabe>
+				<start>00:00:01,440</start>
+				<end>00:00:01,600</end>
+				<text>my</text>
+			</syllabe>
+		</word>
+		<word id="5">
+			<syllabe>
+				<start>00:00:01,600</start>
+				<end>00:00:01,960</end>
+				<text>ba</text>
+			</syllabe>
+			<syllabe>
+				<start>00:00:01,960</start>
+				<end>00:00:02,250</end>
+				<text>by</text>
+			</syllabe>
+		</word>
+</line>
+```
 ## 6th stage: Making lyric lines with Obama words
 ## 7th stage: Cutting Professional singer by line
 ## 8th stage: Running matlab code to make two lines synched
