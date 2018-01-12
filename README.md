@@ -1,6 +1,6 @@
 # Obama singing any song
 ## 1st stage: Downloading Videos
-	+ First we need to download obama videos that that are available. All videos can be found in white house YouTube channel. For better visual looks we just listed Weekly Address of Obama and all the links of the videos can be found within videos.txt file. Additionally one can download all the videos of obama from their YouTube channel directly. Downloading videos can be done with youtube-dl library which has python extansion as well. The code to download videos is available within obama.py python file.
+First we need to download obama videos that that are available. All videos can be found in white house YouTube channel. For better visual looks we just listed Weekly Address of Obama and all the links of the videos can be found within videos.txt file. Additionally one can download all the videos of obama from their YouTube channel directly. Downloading videos can be done with youtube-dl library which has python extansion as well. The code to download videos is available within obama.py python file.
 ``` python
 def download_videos():
     ydl_opts = {'write-sub':'srt'}
@@ -58,6 +58,25 @@ These codes will generate a text file of timings of the each keyword within the 
 ```
 Each element of the list is a data structure for each keyword with first element is word itself, second element is starting time in milliseconds and the third is ending time in milliseconds. 
 ## 4th stage: Cutting words according to timestamp
+At this stage we cut the sentences according to the word timings. We used again MoviePy to do so. This stage could have been omitted because we can simple use PyDub and since its really fast we don't need already generated words. But happens you use MoviePy for later stages we better cut the sentences accoding to the timings in the beginning. To do so we use codes within word_cutting.py file.
+``` python
+def cut_words():
+	list_dir = os.listdir(s_dir) # dir is your directory path
+	sentences = sorted(list_dir)
+	wrote = 0
+	count = 0
+	for sen in sentences:
+		print "Cutting sentence #" + str(count)
+		if not os.path.exists(s_dir + "/" + sen + "/" + "words"):
+			#print sen+"\n" + r.recognize_sphinx(audio, show_all = False)
+			os.makedirs(s_dir + "/" + sen + "/" + "words")
+			w_dir = s_dir + "/" + sen + "/" + "words"
+			words_str = ""
+			with open(s_dir + "/" + sen + "/" + "keywords", "r") as k:
+				words_str = k.read()
+				...
+```
+This function will cut the sentence according to the times within *keywords* file. It writes all video and audio files of the each word within *words* folder within the sentence folder. An example for the word in our case is *actually help working families get ahead. /words/actually/0.mp4* for the word **actually**. Within *actually* folder we will have audio and video files with chronological order if there are more than one appeareance of the word within that sentences. 
 ## 5th stage: Downloading Lyrics and professional singer
 ## 6th stage: Making lyric lines with Obama words
 ## 7th stage: Cutting Professional singer by line
