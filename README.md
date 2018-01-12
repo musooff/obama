@@ -132,6 +132,20 @@ Following above steps we have *shape_of_you.xml* file that includes word by word
 		</word>
 </line>
 ```
+In fact, the optained lyrics is syllabul by syllabul. So one can improve the system to make it syllabul by sullabul instead of current word by word singing. Syllabul by syllabul timing is actually our future work. It is actually required because, some of the words are not available at Obama Speeches so one should be able to generate any word from existing syllabul.
+Downloading professional singer's singing is quite easy. Actually one should follow similar steps for lyrics, but I already wrote script to download it automatically. The code is given inside 
+``` python
+def get_music(url):
+	song_name = ""
+	singer = ""
+	r  = requests.get(url)
+	data = r.text
+	soup = BeautifulSoup(data)
+	for meta in soup.find_all('meta'):
+		if meta.get("property") == "og:audio:title":
+			...
+```
+Given url of the video we can download lead vocal singer and an example for the song of Shape Of You is *Lead Vocal.wav*
 ## 6th stage: Making lyric lines with Obama words
 ## 7th stage: Cutting Professional singer by line
 ## 8th stage: Running matlab code to make two lines synched
