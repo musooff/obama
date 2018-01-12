@@ -149,23 +149,22 @@ Given url of the video we can download lead vocal singer and an example for the 
 ## 6th stage: Making lyric lines with Obama words
 For making lyrics we will you PyDub library and the code is given inside song_maker.py
 ``` python
-def make_song_xml_pydub(song_name, lyr_len):
-	xml_path = "hacks/karaoke-versions/sub_times/"+song_name.replace(" ","_").lower()+".xml"
-	m4a_path = "karaoke/kml_audio/"+song_name.replace(" ","_").lower()+".m4a"
-	lyr_start = 0
+def split_obama_by_line_pydub(song_name, xml_path, lyr_len):
 
-	word_dur_time = xml_timing(xml_path, lyr_len)
 	line_start_end = xml_line_timing(xml_path, lyr_len)
+	word_start_end = xml_timing(xml_path, lyr_len)
 
-	print word_dur_time
 	cuts_dirs = []
 	found = []
 	not_found = []
+
 	db_values = []
 	skip = 0
 
 	total_skip = 0
-	for word, dur, time in word_dur_time:
+
+	
+	for word, dur, time in word_start_end:
 
 		if (skip > 0):
 
@@ -176,6 +175,30 @@ def make_song_xml_pydub(song_name, lyr_len):
 ```
 Above code will concatenate each word of the lyrics according to the timings and also stretch up and down word so that it fits perfectly in whe lyrics. Actually there are two versions of doing this. One is without streting any word: Just add words and then add silence if there is some time remaining. The second is strech each word according to the lyrics.
 All stretching and concatenation will be done by PyDub library. There is also dB changing step as well. That one is used to make all the dBs of the words same.
+``` python
+	...
+	if end == line_end:
+		line_videos.export("karaoke/split_parts/"+song_name+"/obama/"+str(line_count) + ".wav", format = "wav")
+	...
+```
+At this stage we generate each line of the song "said" by obama. Example lines can be seen at *obama* folder.
 ## 7th stage: Cutting Professional singer by line
+Since we have professsional singer's singing in one folder we should cut it according to the lyrics. Cutting will be done within song_maker.py file
+``` python
+def split_prof_by_line_pydub(song_name, xml_path, audio_src, lyr_len):
+	line_start_end = xml_line_timing(xml_path, lyr_len)
+	audio = AudioSegment.from_mp3(audio_src)
+
+	os.makedirs("karaoke/split_parts/"+song_name + "/prof", 0777)
+	line_count = 1;
+	for line, start, end in line_start_end:
+		start = convert_time(start)
+		end = convert_time(end)
+		print line, start, end
+		part = audio[start*1000:end*1000]
+		part.export("karaoke/split_parts/" +song_name + "/prof/"+str(line_count)+".wav", format = "wav")
+		line_count += 1
+```
+Above code will generate each line of the professional singer within *prof* folder. Note that each number of generated file in 7th stage corresponds to that number of generated file in this stage.
 ## 8th stage: Running matlab code to make two lines synched
 ## 9th stage: Concatenating all lines generated from matlab
