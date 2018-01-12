@@ -189,7 +189,7 @@ def split_prof_by_line_pydub(song_name, xml_path, audio_src, lyr_len):
 	line_start_end = xml_line_timing(xml_path, lyr_len)
 	audio = AudioSegment.from_mp3(audio_src)
 
-	os.makedirs("karaoke/split_parts/"+song_name + "/prof", 0777)
+	os.makedirs("karaoke/split_parts/"+song_name + "/prof", 777)
 	line_count = 1;
 	for line, start, end in line_start_end:
 		start = convert_time(start)
