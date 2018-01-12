@@ -34,6 +34,29 @@ def cut_videos(limit):
 ```
 This way we cut every Weekly Address into sentence and we name each sentence according to it's text. The code will generate two file: one video file and one audio file. Audio file is there just to make our audio processing faster. An example of sentences is *actually help working families get ahead*. Within that folder we have one video and one audio file of correspoding speech. We cut this sentences with MoviePy library of Python. Although moviepy library is great for video editing, it is not the best for audio editing. Therefore, resulting audio may have some glitches in the beginning or the end of the file. A better audio library is PyDub of Python which is both great and fast while working with audios. We didn't use PyDub at this stage, because we already had generated 20Gb of data with MoviePy and didn't want to regenerate with PyDub. If you want better audio quality results, its better to edit the code and cut audios with PyDub. For video cutting, one can use MoviePy and then add generated of audio of the file through PyDub to it.
 ## 3rd stage: Speech Recognition
+After generating all the sentences we will use speech recognition to listen each sentence and generate timings of the each keyword. Here we use CMU Sphinx Speech Recognition. One can use Google or IBM speech recognition at this stage. The reason we use CMU Sphinx Speech Recognition is because its free and can be used offline. To listen we use the code inside cmu_listen.py.
+``` python
+def listen():
+	list_dir = os.listdir(s_dir) # dir is your directory path
+	sentences = sorted(list_dir)
+	wrote = 0
+	count = 0
+	for sen in sentences:
+		print "Listening to sentence #" + str(count)
+		with sr.AudioFile(s_dir + "/" + sen + "/" + sen+".wav") as source:
+			audio = r.record(source)
+		try:
+
+			if not os.path.exists(s_dir + "/" + sen + "/" + "keywords"):
+				#print sen+"\n" + r.recognize_sphinx(audio, show_all = False)
+				decoder = r.recognize_sphinx(audio, show_all = True)
+                ...
+```
+These codes will generate a text file of timings of the each keyword within the sentence. We write those timings inside *keywords* file within the folder of the sentence. In this case we have *actually help working families get ahead/keywords*. The *keywords* is filled with the following structure
+```
+[['<s>', 0, 2], ['actually(2)', 3, 28], ['help', 29, 63], ['<sil>', 64, 78], ['working', 79, 111], ['families(2)', 112, 151], ['the', 152, 168], ['head', 169, 195], ['</s>', 196, 198]]
+```
+Each element of the list is a data structure for each keyword with first element is word itself, second element is starting time in milliseconds and the third is ending time in milliseconds. 
 ## 4th stage: Cutting words according to timestamp
 ## 5th stage: Downloading Lyrics and professional singer
 ## 6th stage: Making lyric lines with Obama words
