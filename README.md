@@ -133,7 +133,7 @@ Following above steps we have *shape_of_you.xml* file that includes word by word
 </line>
 ```
 In fact, the optained lyrics is syllabul by syllabul. So one can improve the system to make it syllabul by sullabul instead of current word by word singing. Syllabul by syllabul timing is actually our future work. It is actually required because, some of the words are not available at Obama Speeches so one should be able to generate any word from existing syllabul.
-Downloading professional singer's singing is quite easy. Actually one should follow similar steps for lyrics, but I already wrote script to download it automatically. The code is given inside 
+Downloading professional singer's singing is quite easy. Actually one should follow similar steps for lyrics, but I already wrote script to download it automatically. The code is given inside music_downloader.py
 ``` python
 def get_music(url):
 	song_name = ""
@@ -147,6 +147,35 @@ def get_music(url):
 ```
 Given url of the video we can download lead vocal singer and an example for the song of Shape Of You is *Lead Vocal.wav*
 ## 6th stage: Making lyric lines with Obama words
+For making lyrics we will you PyDub library and the code is given inside song_maker.py
+``` python
+def make_song_xml_pydub(song_name, lyr_len):
+	xml_path = "hacks/karaoke-versions/sub_times/"+song_name.replace(" ","_").lower()+".xml"
+	m4a_path = "karaoke/kml_audio/"+song_name.replace(" ","_").lower()+".m4a"
+	lyr_start = 0
+
+	word_dur_time = xml_timing(xml_path, lyr_len)
+	line_start_end = xml_line_timing(xml_path, lyr_len)
+
+	print word_dur_time
+	cuts_dirs = []
+	found = []
+	not_found = []
+	db_values = []
+	skip = 0
+
+	total_skip = 0
+	for word, dur, time in word_dur_time:
+
+		if (skip > 0):
+
+			print "SKIPPED"
+			skip -=1
+			continue
+			...
+```
+Above code will concatenate each word of the lyrics according to the timings and also stretch up and down word so that it fits perfectly in whe lyrics. Actually there are two versions of doing this. One is without streting any word: Just add words and then add silence if there is some time remaining. The second is strech each word according to the lyrics.
+All stretching and concatenation will be done by PyDub library. There is also dB changing step as well. That one is used to make all the dBs of the words same.
 ## 7th stage: Cutting Professional singer by line
 ## 8th stage: Running matlab code to make two lines synched
 ## 9th stage: Concatenating all lines generated from matlab
