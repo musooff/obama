@@ -245,3 +245,7 @@ def final_song(song_dir, xml_path, lyr_len):
 	audio.export("karaoke/split_parts/Shape Of You/result.wav", format = "wav")
 ```
 Final songs will be *result.wav* file that is written after concatenating all the lines.
+
+### Written by
+**Muso Khon**
+musooff@gmail.com
