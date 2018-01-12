@@ -205,7 +205,6 @@ At this stage one should have matlab installed in their computer to run this cod
 ``` matlab
 function y = expTrans( source, target, sr, mixRate, phoneS, phoneT )
 
-
 if nargin < 5
     useLPC = true;
 end
@@ -228,3 +227,21 @@ end
 ```
 The above codes will generate each line of the song singed by obama and mocked the professional singer. All the lines can be found within *obama_res* folder.
 ## 9th stage: Concatenating all lines generated from matlab
+Now we have each line of the obama singing and we just need to concatenate the results. that can be done within song_maker.py
+``` python
+def final_song(song_dir, xml_path, lyr_len):
+	line_start_end = xml_line_timing(xml_path, lyr_len)
+	line_count = 1
+	audio = AudioSegment.empty()
+	last_start = 0
+	for line, start, end in line_start_end:
+		start = convert_time(start)
+		end = convert_time(end)
+		if last_start < start:
+			audio =audio + AudioSegment.silent(duration = (start*1000 - last_start*1000))
+		audio = audio + AudioSegment.from_wav(song_dir+str(line_count)+'.wav')
+		line_count += 1
+		last_start = end
+	audio.export("karaoke/split_parts/Shape Of You/result.wav", format = "wav")
+```
+Final songs will be *result.wav* file that is written after concatenating all the lines.
