@@ -13,7 +13,26 @@ def download_videos():
 ```
 The given code download videos with their subtitles as srt file. We need subtitles for the next stage of our work. An example video and subtitle is *"Weekly Address - Extending and Expanding..."* within directory. 
 ## 2nd stage: Cutting videos by sentences
-Now since we have videos and subtitles of those videos we can cut these videos according to sentences timings. 
+Now since we have videos and subtitles of those videos we can cut these videos according to sentences timings. To cut videos into sentence will be helpful for us to run speech recognition faster for the next stage. The codes to cut the sentences is given within listen.py python file.
+``` python
+def cut_videos(limit):
+    list = os.listdir(v_dir) # dir is your directory path
+    subs_videos = sorted(list)
+    wrote = 0
+    count = 0
+    for sub in subs_videos:
+        if (count%2) == 0 and count > 490:
+            print "Cutting sentences for video #"+str(count/2)
+            times_texts = obama.get_times_texts(v_dir+'/'+sub)
+            if times_texts == None:
+                count +=1
+                continue
+            video = VideoFileClip(v_dir + '/' + subs_videos[count+1])
+            audio = AudioFileClip(v_dir + '/' + subs_videos[count+1])
+            for times, text in times_texts:
+                ...
+```
+This way we cut every Weekly Address into sentence and we name each sentence according to it's text. The code will generate two file: one video file and one audio file. Audio file is there just to make our audio processing faster. An example of sentences is *actually help working families get ahead*. Within that folder we have one video and one audio file of correspoding speech. We cut this sentences with MoviePy library of Python. Although moviepy library is great for video editing, it is not the best for audio editing. Therefore, resulting audio may have some glitches in the beginning or the end of the file. A better audio library is PyDub of Python which is both great and fast while working with audios. We didn't use PyDub at this stage, because we already had generated 20Gb of data with MoviePy and didn't want to regenerate with PyDub. If you want better audio quality results, its better to edit the code and cut audios with PyDub. For video cutting, one can use MoviePy and then add generated of audio of the file through PyDub to it.
 ## 3rd stage: Speech Recognition
 ## 4th stage: Cutting words according to timestamp
 ## 5th stage: Downloading Lyrics and professional singer
