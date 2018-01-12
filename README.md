@@ -201,4 +201,30 @@ def split_prof_by_line_pydub(song_name, xml_path, audio_src, lyr_len):
 ```
 Above code will generate each line of the professional singer within *prof* folder. Note that each number of generated file in 7th stage corresponds to that number of generated file in this stage.
 ## 8th stage: Running matlab code to make two lines synched
+At this stage one should have matlab installed in their computer to run this code. The matlab codes are designed to make non-professional singing sound exactly like professional singer. To do so user needs to provide normal singing of the anyone and then professional singer without background music. Algorithm fines perfect dtw of two singings and the make normal singing match the professional singer. In our case we have obama singing and professional singing. We will make obama singing follow the professional singin. This can be done within expTrans.m matlab code
+``` matlab
+function y = expTrans( source, target, sr, mixRate, phoneS, phoneT )
+
+
+if nargin < 5
+    useLPC = true;
+end
+
+if nargin < 4
+    mixRate = 0.7;
+    ...
+```
+Since this function does one line we need to write another matlab code that loops over each line of the both obama and professional singing. That can be found within mat.m matlab code
+``` matlab
+for c = 1:25
+	ob_path = strcat('/home/muso/Desktop/obama/karaoke/split_parts/Shape Of You/obama/',int2str(c),'.wav');
+	[source, sr]= audioread(ob_path);
+	ta_path = strcat('/home/muso/Desktop/obama/karaoke/split_parts/Shape Of You/prof/',int2str(c),'.wav');
+	target = audioread(ta_path);
+	y = expTrans(source, target, sr);
+	res_path = strcat('/home/muso/Desktop/obama/karaoke/split_parts/Shape Of You/obama_res/',int2str(c),'.wav');
+	audiowrite(res_path, y, sr);
+end
+```
+The above codes will generate each line of the song singed by obama and mocked the professional singer. All the lines can be found within *obama_res* folder.
 ## 9th stage: Concatenating all lines generated from matlab
