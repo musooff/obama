@@ -1,0 +1,41 @@
+Song catalog json file was downloaded by
+http://catalog.yokee.cms.yokee.tv/fbm_json_catalog_eea.zip
+
+catalon format looks like:
+{
+	"catalog":
+		[
+			...
+			
+		    {
+		      "fbmid" : "FBM177587",
+		      "uid" : "TEN52432",
+		      "hookStart" : 0,
+		      "vendorName" : "tency",
+		      "title" : "Shape of You",
+		      "type" : "YTV",
+		      "new" : true,
+		      "keywords" : "",
+		      "bpm" : 96,
+		      "year" : "2017",
+		      "duration" : 232,
+		      "ytVC" : 2134324035,
+		      "artist" : "Ed Sheeran",
+		      "genre" : "Pop|Rap",
+		      "hookEnd" : 0
+		    },
+			...
+		]
+}
+
+Each songs kml data is stored at:
+http://assets.yokee.cms.yokee.tv/KML/TEN52432.kml
+where TEN52432 here is uid
+
+Each songs m4a file is stored at:
+http://assets.yokee.cms.yokee.tv/M4A/TEN52432.m4a
+where TEN52432 here is uid
+
+Each songs JPG file is stored at:
+http://artwork.yokee.tv/FBM177587-Q3.jpg
+where FBM177587 is fbmid and Q3 is size of image with Q1 smallest and Q3 is largest

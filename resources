@@ -1,0 +1,4 @@
+pocketsphinx-python = https://github.com/bambocher/pocketsphinx-python
+speech_recognition = https://github.com/Uberi/speech_recognition
+CMU Sphinx = https://cmusphinx.github.io/
+

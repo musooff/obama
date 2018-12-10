@@ -1,0 +1,25 @@
+﻿Audio Toolbox를 이용한 PSOLA 구현
+
+
+Online Implementation 파일 리스트
+
+YIN algorithm을 위한 folder포함
+
+audio_system_toolbox_demo.m: 간단한 audio system toolbox test 용 실행파일 --> frame별로 마이크 입력을 그대로 출력하는 실행파일
+
+toolbox_test.m: main script 이며 프로그램을 돌릴시 이 파일을 실행하면 됩니다
+
+demo_pitch_shifter.m(교수님 수정본): 저번에 설명 했듯이 artifact를 줄이기 위해 이전 frame과 연결 시키며 psola를 진행토록 수정 (기존 파일 / 마이크 이용) (중요 **)
+
+findpitchmarks.m: pitch mark찾는 function (pitch mark를 return합니다)
+
+psola_modified.m: 기존에 교수님께서 주신 psola.m 에서 frame 수 조정 및 WINDOWING등을 바꾼 버전 (중요 **)
+
+psola.m: 기존에 주신 psola 파일
+
+psola_example.m: 기존에 주신 psola 실행 파일 --> 파일의 1/3 지점부터 beta = 1.1로 pitch 수정
+
+MIDI reading 파일들:
+
+midiInfo.m / readmidi.m / midi_reader.m / midiInfo.m / getTempoChanges.m
+

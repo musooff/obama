@@ -1,0 +1,27 @@
+For now our first goal is to make Obama sing any song.
+What we have done so far
+
+1) 	Download all the videos of Obama, they usually have subtitles for all the speeches.
+2)	We used CMU speech recognition to split every speech word by word.
+	We can't listen to 50 minutes long speech. So since we have subtitles we splitted first videos into sentences.
+	and then use speech recognition for each sentence and cut it word by word.
+3)	With given all the word cuts we can produce any custom fake speech. You just give the text and does it like 10 seconds
+	(Time taken is just for concatenating words and making new video clip)
+4) 	We can make even Obama sing some songs
+	Input is just Background Music and Song Lyrics (lrc format or srt like subtitle with timing of the each line)
+5) We can put in obama talks in movies as well
+	Input is just Movie and Subtitle
+
+Issues we are facing now
+1)	Audio glitches, how to remove them
+2)	Pitch retification for different clips
+	Even when I speed up or down the audio to fit the audio
+3)	Not available words:
+	our approach is
+		1)	with CMU speech recognition making syllable model
+			creating Syllable Language Model (In progress)
+		2)	Any other approach, you can suggest?
+4)	Two audio speech synchronization for getting best timing
+5) 	Removing background music of the song so that I can use speech recognition for for the song and get word timing
+
+That much for now

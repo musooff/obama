@@ -1,0 +1,1109 @@
+<response status="OK">
+<song id="52432" len="232" pop="0.92885972909933" bgcolor="932F3A" nbStreams="39164" preview-len="46" preview="1">
+<title>Shape of You</title>
+<artist id="8906">Ed Sheeran</artist>
+<year>2017</year>
+<imagePath>s3.karafun.com/i/img/00/52/d4/84_3d7870_sq100.jpg</imagePath>
+<stream>
+http://c3.karafun.com/sl/ad52e9441a/abf5cafc7ce8464424e83d74a5b9999b/nbv-bv_hq_pv.mp4
+</stream>
+<filemtime>1496056864</filemtime>
+<filesize>452663</filesize>
+<md5>abf5cafc7ce8464424e83d74a5b9999b</md5>
+<previewstartsec>185</previewstartsec>
+<legal>
+<item id="1" type="writing">
+Ed Sheeran / Steve Mac / Johnny McDaid / Kandi Burruss / Tameka "Tiny" Cottle
+</item>
+<item id="2" type="writing">
+Michael Ebenazer Kwadjo Omari Owuo Junior / Kevin Briggs
+</item>
+<item id="3" type="publishing">
+Rokstone Music Ltd / Universal Music Publishing Limited (GB) / Copyright Control Shares
+</item>
+<item id="4" type="publishing">
+Kandacy Music / EMI Music Publishing LTD / EMI April Music Inc / Air Control Music Inc
+</item>
+<item id="5" type="publishing">
+Sony/atv Music Publishing (uk) Limited / Tiny Tam Music / Pepper Drive Music
+</item>
+<item id="6" type="publishing">
+Warner/chappell North America Limited / Tony Mercedes Music / Polar Patrol Music Limited
+</item>
+<item id="7" type="publishing">Kobalt Music Publishing Limited</item>
+</legal>
+<styles>28</styles>
+</song>
+<karaoke version="1.0" producer="Recisio">
+<page id="1" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:-3,-40</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:01,260</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="1">
+<position x="128.50" width="383" y="240.50" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:-1,-840</start>
+<end>00:00:-1,-680</end>
+<text>Come</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:-1,-680</start>
+<end>00:00:-1,-370</end>
+<text>on</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:-1,-370</start>
+<end>00:00:-1,-60</end>
+<text>be</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:-1,-60</start>
+<end>00:00:00,-900</end>
+<text>my</text>
+</syllabe>
+</word>
+<word id="5">
+<syllabe>
+<start>00:00:00,-900</start>
+<end>00:00:00,-540</end>
+<text>ba</text>
+</syllabe>
+<syllabe>
+<start>00:00:00,-540</start>
+<end>00:00:00,-250</end>
+<text>by</text>
+</syllabe>
+</word>
+</line>
+<line id="2">
+<position x="242.50" width="155" y="300.30" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:00,-240</start>
+<end>00:00:00,060</end>
+<text>come</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:00,060</start>
+<end>00:00:00,370</end>
+<text>on</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="2" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:00,-540</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:03,760</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="3">
+<position x="128.50" width="383" y="120.90" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:00,660</start>
+<end>00:00:00,820</end>
+<text>Come</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:00,820</start>
+<end>00:00:01,130</end>
+<text>on</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:01,130</start>
+<end>00:00:01,440</end>
+<text>be</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:01,440</start>
+<end>00:00:01,600</end>
+<text>my</text>
+</syllabe>
+</word>
+<word id="5">
+<syllabe>
+<start>00:00:01,600</start>
+<end>00:00:01,960</end>
+<text>ba</text>
+</syllabe>
+<syllabe>
+<start>00:00:01,960</start>
+<end>00:00:02,250</end>
+<text>by</text>
+</syllabe>
+</word>
+</line>
+<line id="4">
+<position x="242.50" width="155" y="180.70" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:02,260</start>
+<end>00:00:02,560</end>
+<text>come</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:02,560</start>
+<end>00:00:02,870</end>
+<text>on</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="3" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:01,960</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:06,420</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="5">
+<position x="128.50" width="383" y="240.50" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:03,160</start>
+<end>00:00:03,320</end>
+<text>Come</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:03,320</start>
+<end>00:00:03,630</end>
+<text>on</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:03,630</start>
+<end>00:00:03,940</end>
+<text>be</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:03,940</start>
+<end>00:00:04,100</end>
+<text>my</text>
+</syllabe>
+</word>
+<word id="5">
+<syllabe>
+<start>00:00:04,100</start>
+<end>00:00:04,460</end>
+<text>ba</text>
+</syllabe>
+<syllabe>
+<start>00:00:04,460</start>
+<end>00:00:04,750</end>
+<text>by</text>
+</syllabe>
+</word>
+</line>
+<line id="6">
+<position x="242.50" width="155" y="300.30" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:04,760</start>
+<end>00:00:05,060</end>
+<text>come</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:05,060</start>
+<end>00:00:05,370</end>
+<text>on</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="4" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:05,080</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:09,120</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="7">
+<position x="179.00" width="282" y="120.90" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:06,280</start>
+<end>00:00:06,440</end>
+<text>I'm</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:06,440</start>
+<end>00:00:06,600</end>
+<text>in</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:06,600</start>
+<end>00:00:06,910</end>
+<text>love</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:06,910</start>
+<end>00:00:07,070</end>
+<text>with</text>
+</syllabe>
+</word>
+</line>
+<line id="8">
+<position x="169.00" width="302" y="180.70" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:07,070</start>
+<end>00:00:07,230</end>
+<text>the</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:07,230</start>
+<end>00:00:07,540</end>
+<text>shape</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:07,540</start>
+<end>00:00:07,850</end>
+<text>of</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:07,850</start>
+<end>00:00:08,070</end>
+<text>you</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="5" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:07,430</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:11,560</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="9">
+<position x="160.00" width="320" y="240.50" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:08,630</start>
+<end>00:00:08,790</end>
+<text>We</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:08,790</start>
+<end>00:00:08,940</end>
+<text>push</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:08,940</start>
+<end>00:00:09,100</end>
+<text>and</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:09,100</start>
+<end>00:00:09,410</end>
+<text>pull</text>
+</syllabe>
+</word>
+</line>
+<line id="10">
+<position x="167.50" width="305" y="300.30" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:09,410</start>
+<end>00:00:09,570</end>
+<text>like</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:09,570</start>
+<end>00:00:09,730</end>
+<text>a</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:09,730</start>
+<end>00:00:10,040</end>
+<text>mag</text>
+</syllabe>
+<syllabe>
+<start>00:00:10,040</start>
+<end>00:00:10,350</end>
+<text>net</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:10,350</start>
+<end>00:00:10,510</end>
+<text>do</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="6" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:09,930</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:14,140</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="11">
+<position x="152.00" width="336" y="120.90" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:11,130</start>
+<end>00:00:11,290</end>
+<text>Al</text>
+</syllabe>
+<syllabe>
+<start>00:00:11,290</start>
+<end>00:00:11,440</end>
+<text>though</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:11,440</start>
+<end>00:00:11,600</end>
+<text>my</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:11,600</start>
+<end>00:00:11,910</end>
+<text>heart</text>
+</syllabe>
+</word>
+</line>
+<line id="12">
+<position x="206.00" width="228" y="180.70" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:11,910</start>
+<end>00:00:12,230</end>
+<text>is</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:12,230</start>
+<end>00:00:12,540</end>
+<text>fa</text>
+</syllabe>
+<syllabe>
+<start>00:00:12,540</start>
+<end>00:00:12,850</end>
+<text>lling</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:12,850</start>
+<end>00:00:13,090</end>
+<text>too</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="7" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:12,590</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:16,590</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="13">
+<position x="84.50" width="471" y="240.50" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:13,790</start>
+<end>00:00:13,940</end>
+<text>I'm</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:13,940</start>
+<end>00:00:14,100</end>
+<text>in</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:14,100</start>
+<end>00:00:14,410</end>
+<text>love</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:14,410</start>
+<end>00:00:14,570</end>
+<text>with</text>
+</syllabe>
+</word>
+<word id="5">
+<syllabe>
+<start>00:00:14,570</start>
+<end>00:00:14,730</end>
+<text>your</text>
+</syllabe>
+</word>
+<word id="6">
+<syllabe>
+<start>00:00:14,730</start>
+<end>00:00:15,190</end>
+<text>bo</text>
+</syllabe>
+<syllabe>
+<start>00:00:15,190</start>
+<end>00:00:15,490</end>
+<text>dy</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="8" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:15,090</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:19,110</fadeoutstart>
+<fadeoutduration>00:00:00,520</fadeoutduration>
+<line id="14">
+<position x="142.00" width="356" y="120.90" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:16,290</start>
+<end>00:00:16,600</end>
+<text>Last</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:16,600</start>
+<end>00:00:16,910</end>
+<text>night</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:16,910</start>
+<end>00:00:17,070</end>
+<text>you</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:17,070</start>
+<end>00:00:17,230</end>
+<text>were</text>
+</syllabe>
+</word>
+</line>
+<line id="15">
+<position x="217.00" width="206" y="180.70" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:17,230</start>
+<end>00:00:17,540</end>
+<text>in</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:17,540</start>
+<end>00:00:17,850</end>
+<text>my</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:17,850</start>
+<end>00:00:18,140</end>
+<text>room</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="9" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:17,430</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:21,270</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="16">
+<position x="109.50" width="421" y="240.50" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:18,630</start>
+<end>00:00:18,790</end>
+<text>And</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:18,790</start>
+<end>00:00:18,940</end>
+<text>now</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:18,940</start>
+<end>00:00:19,100</end>
+<text>my</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:19,100</start>
+<end>00:00:19,410</end>
+<text>bed</text>
+</syllabe>
+<syllabe>
+<start>00:00:19,410</start>
+<end>00:00:19,730</end>
+<text>sheets</text>
+</syllabe>
+</word>
+</line>
+<line id="17">
+<position x="193.00" width="254" y="300.30" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:19,730</start>
+<end>00:00:20,040</end>
+<text>smell</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:20,040</start>
+<end>00:00:20,350</end>
+<text>like</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:20,350</start>
+<end>00:00:20,660</end>
+<text>you</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="10" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:19,630</fadeinstart>
+<fadeinduration>00:00:00,520</fadeinduration>
+<fadeoutstart>00:00:24,090</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="18">
+<position x="123.00" width="394" y="120.90" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:20,670</start>
+<end>00:00:20,820</end>
+<text>E</text>
+</syllabe>
+<syllabe>
+<start>00:00:20,820</start>
+<end>00:00:20,980</end>
+<text>very</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:20,980</start>
+<end>00:00:21,130</end>
+<text>day</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:21,130</start>
+<end>00:00:21,290</end>
+<text>di</text>
+</syllabe>
+<syllabe>
+<start>00:00:21,290</start>
+<end>00:00:21,440</end>
+<text>sco</text>
+</syllabe>
+<syllabe>
+<start>00:00:21,440</start>
+<end>00:00:21,600</end>
+<text>ve</text>
+</syllabe>
+<syllabe>
+<start>00:00:21,600</start>
+<end>00:00:21,910</end>
+<text>ring</text>
+</syllabe>
+</word>
+</line>
+<line id="19">
+<position x="124.50" width="391" y="180.70" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:21,910</start>
+<end>00:00:22,230</end>
+<text>some</text>
+</syllabe>
+<syllabe>
+<start>00:00:22,230</start>
+<end>00:00:22,540</end>
+<text>thing</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:22,540</start>
+<end>00:00:22,850</end>
+<text>brand</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:22,850</start>
+<end>00:00:23,040</end>
+<text>new</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="11" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:22,430</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:27,030</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="20">
+<position x="56.00" width="528" y="240.50" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:23,630</start>
+<end>00:00:23,790</end>
+<text>oh</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:23,790</start>
+<end>00:00:23,940</end>
+<text>I'm</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:23,940</start>
+<end>00:00:24,100</end>
+<text>in</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:24,100</start>
+<end>00:00:24,410</end>
+<text>love</text>
+</syllabe>
+</word>
+<word id="5">
+<syllabe>
+<start>00:00:24,410</start>
+<end>00:00:24,570</end>
+<text>with</text>
+</syllabe>
+</word>
+<word id="6">
+<syllabe>
+<start>00:00:24,570</start>
+<end>00:00:24,730</end>
+<text>your</text>
+</syllabe>
+</word>
+<word id="7">
+<syllabe>
+<start>00:00:24,730</start>
+<end>00:00:25,190</end>
+<text>bo</text>
+</syllabe>
+<syllabe>
+<start>00:00:25,190</start>
+<end>00:00:25,980</end>
+<text>dy</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="12" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:27,460</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:32,170</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="21">
+<position x="84.50" width="471" y="180.70" height="52"/>
+<progressivebar x="52.50">
+<start>00:00:27,460</start>
+</progressivebar>
+<word id="1">
+<syllabe>
+<start>00:00:28,780</start>
+<end>00:00:28,940</end>
+<text>I'm</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:28,940</start>
+<end>00:00:29,100</end>
+<text>in</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:29,100</start>
+<end>00:00:29,410</end>
+<text>love</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:29,410</start>
+<end>00:00:29,570</end>
+<text>with</text>
+</syllabe>
+</word>
+<word id="5">
+<syllabe>
+<start>00:00:29,570</start>
+<end>00:00:29,730</end>
+<text>your</text>
+</syllabe>
+</word>
+<word id="6">
+<syllabe>
+<start>00:00:29,730</start>
+<end>00:00:30,660</end>
+<text>bo</text>
+</syllabe>
+<syllabe>
+<start>00:00:30,660</start>
+<end>00:00:31,120</end>
+<text>dy</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="13" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:32,580</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:38,970</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="22">
+<position x="45.50" width="549" y="240.50" height="52"/>
+<progressivebar x="13.50">
+<start>00:00:32,580</start>
+</progressivebar>
+<word id="1">
+<syllabe>
+<start>00:00:33,780</start>
+<end>00:00:33,940</end>
+<text>I'm</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:33,940</start>
+<end>00:00:34,100</end>
+<text>in</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:34,100</start>
+<end>00:00:34,410</end>
+<text>love</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:34,410</start>
+<end>00:00:34,570</end>
+<text>with</text>
+</syllabe>
+</word>
+<word id="5">
+<syllabe>
+<start>00:00:34,570</start>
+<end>00:00:34,730</end>
+<text>your</text>
+</syllabe>
+</word>
+<word id="6">
+<syllabe>
+<start>00:00:34,730</start>
+<end>00:00:35,270</end>
+<text>bo</text>
+</syllabe>
+<syllabe>
+<start>00:00:35,270</start>
+<end>00:00:35,660</end>
+<text>dy</text>
+</syllabe>
+</word>
+<word id="7">
+<syllabe>
+<start>00:00:36,600</start>
+<end>00:00:37,700</end>
+<text>ooh</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="14" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:37,580</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:42,320</fadeoutstart>
+<fadeoutduration>00:00:00,410</fadeoutduration>
+<line id="23">
+<position x="84.50" width="471" y="120.90" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:38,780</start>
+<end>00:00:38,940</end>
+<text>I'm</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:38,940</start>
+<end>00:00:39,100</end>
+<text>in</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:39,100</start>
+<end>00:00:39,410</end>
+<text>love</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:39,410</start>
+<end>00:00:39,570</end>
+<text>with</text>
+</syllabe>
+</word>
+<word id="5">
+<syllabe>
+<start>00:00:39,570</start>
+<end>00:00:39,730</end>
+<text>your</text>
+</syllabe>
+</word>
+<word id="6">
+<syllabe>
+<start>00:00:39,730</start>
+<end>00:00:40,190</end>
+<text>bo</text>
+</syllabe>
+<syllabe>
+<start>00:00:40,190</start>
+<end>00:00:40,650</end>
+<text>dy</text>
+</syllabe>
+</word>
+</line>
+<line id="24">
+<position x="125.50" width="389" y="180.70" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:40,660</start>
+<end>00:00:40,820</end>
+<text>e</text>
+</syllabe>
+<syllabe>
+<start>00:00:40,820</start>
+<end>00:00:40,980</end>
+<text>very</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:40,980</start>
+<end>00:00:41,130</end>
+<text>day</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:41,130</start>
+<end>00:00:41,290</end>
+<text>di</text>
+</syllabe>
+<syllabe>
+<start>00:00:41,290</start>
+<end>00:00:41,440</end>
+<text>sco</text>
+</syllabe>
+<syllabe>
+<start>00:00:41,440</start>
+<end>00:00:41,600</end>
+<text>ve</text>
+</syllabe>
+<syllabe>
+<start>00:00:41,600</start>
+<end>00:00:41,910</end>
+<text>ring</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="15" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:40,710</fadeinstart>
+<fadeinduration>00:00:00,600</fadeinduration>
+<fadeoutstart>00:00:43,810</fadeoutstart>
+<fadeoutduration>00:00:00,250</fadeoutduration>
+<line id="25">
+<position x="124.50" width="391" y="240.50" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:41,910</start>
+<end>00:00:42,230</end>
+<text>some</text>
+</syllabe>
+<syllabe>
+<start>00:00:42,230</start>
+<end>00:00:42,540</end>
+<text>thing</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:42,540</start>
+<end>00:00:42,850</end>
+<text>brand</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:42,850</start>
+<end>00:00:43,160</end>
+<text>new</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="16" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:42,740</fadeinstart>
+<fadeinduration>00:00:00,410</fadeinduration>
+<fadeoutstart>00:00:45,170</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="26">
+<position x="179.00" width="282" y="180.70" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:43,790</start>
+<end>00:00:43,940</end>
+<text>I'm</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:43,940</start>
+<end>00:00:44,100</end>
+<text>in</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:44,100</start>
+<end>00:00:44,410</end>
+<text>love</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:44,410</start>
+<end>00:00:44,570</end>
+<text>with</text>
+</syllabe>
+</word>
+</line>
+</page>
+<page id="17" activecolor="#6476F0" inactivecolor="#FFFFFF" activebordercolor="#000000" inactivebordercolor="#000000">
+<fadeinstart>00:00:44,070</fadeinstart>
+<fadeinduration>00:00:00,250</fadeinduration>
+<fadeoutstart>00:00:47,110</fadeoutstart>
+<fadeoutduration>00:00:00,600</fadeoutduration>
+<line id="27">
+<position x="169.00" width="302" y="240.50" height="52"/>
+<word id="1">
+<syllabe>
+<start>00:00:44,570</start>
+<end>00:00:44,730</end>
+<text>the</text>
+</syllabe>
+</word>
+<word id="2">
+<syllabe>
+<start>00:00:44,730</start>
+<end>00:00:45,080</end>
+<text>shape</text>
+</syllabe>
+</word>
+<word id="3">
+<syllabe>
+<start>00:00:45,080</start>
+<end>00:00:45,420</end>
+<text>of</text>
+</syllabe>
+</word>
+<word id="4">
+<syllabe>
+<start>00:00:45,420</start>
+<end>00:00:46,060</end>
+<text>you</text>
+</syllabe>
+</word>
+</line>
+</page>
+<event id="1">
+<start>00:00:00,000</start>
+<bgcolor>A73A3B</bgcolor>
+</event>
+<event id="2">
+<start>00:00:02,560</start>
+<bump/>
+</event>
+</karaoke>
+</response>

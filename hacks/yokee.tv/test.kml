@@ -1,0 +1,958 @@
+<?xml version='1.0' standalone='yes'?>
+<karaoke d="284.220000" id="SYB01740">
+  <pg id="title_page" d="10.115" t="0">
+    <box id="title">UPTOWN FUNK</box>
+    <box id="style">MARK RONSON Ft. BRUNO MARS</box>
+  </pg>
+  <pg id="lyrics.1" d="16.077" t="10.115">
+    <ln>
+      <lyr d="0.41" s="THIS " t="20.23" />
+      <lyr d="0.18" s="H" t="20.64" />
+      <lyr d="0.1" s="IT " t="20.82" />
+    </ln>
+    <ln>
+      <lyr d="0.26" s="THAT " t="21" />
+      <lyr d="0.046" s="I" t="21.26" />
+      <lyr d="0.19" s="C" t="21.306" />
+      <lyr d="0.194" s="E " t="21.496" />
+      <lyr d="0.277" s="COLD " t="21.69" />
+    </ln>
+    <ln>
+      <lyr d="0.16" s="M" t="22.01" />
+      <lyr d="0.51" s="ICHELLE " t="22.17" />
+      <lyr d="0.377" s="PFEIFFER " t="22.68" />
+    </ln>
+    <ln>
+      <lyr d="0.31" s="THAT " t="23.04" />
+      <lyr d="0.39" s="WHITE " t="23.35" />
+      <lyr d="0.387" s="GOLD " t="23.74" />
+    </ln>
+    <ln>
+      <lyr d="0.223" s="TH" t="24.4" />
+      <lyr d="0.137" s="IS " t="24.623" />
+      <lyr d="0.29" s="ONE " t="24.76" />
+      <lyr d="0.11" s="FOR " t="25.05" />
+      <lyr d="0.3" s="THEM " t="25.16" />
+      <lyr d="0.38" s="HOOD " t="25.46" />
+      <lyr d="0.324" s="GIRLS " t="25.84" />
+    </ln>
+  </pg>
+  <pg id="lyrics.2" d="5.998" t="26.192">
+    <ln>
+      <lyr d="0.28" s="THEM " t="26.22" />
+      <lyr d="0.39" s="GOOD " t="26.5" />
+      <lyr d="0.12" s="G" t="26.89" />
+      <lyr d="0.224" s="IRLS " t="27.01" />
+    </ln>
+    <ln>
+      <lyr d="0.27" s="STRAIGHT " t="27.26" />
+      <lyr d="0.779" s="MASTERPIECE " t="27.53" />
+    </ln>
+    <ln>
+      <lyr d="0.16" s="S" t="28.57" />
+      <lyr d="0.24" s="TY" t="28.73" />
+      <lyr d="0.11" s="LI" t="28.97" />
+      <lyr d="0.56" s="N' " t="29.08" />
+      <lyr d="0.4" s="WHILE " t="29.64" />
+      <lyr d="0.206" s="IN " t="30.04" />
+    </ln>
+    <ln>
+      <lyr d="0.25" s="LIVIN' " t="30.72" />
+      <lyr d="0.12" s="IT " t="30.97" />
+      <lyr d="0.25" s="UP " t="31.09" />
+      <lyr d="0.26" s="IN " t="31.34" />
+      <lyr d="0.13" s="THE " t="31.6" />
+      <lyr d="0.12" s="C" t="31.73" />
+      <lyr d="0.06" s="ITY " t="31.85" />
+    </ln>
+  </pg>
+  <pg id="lyrics.3" d="4.172" t="32.19">
+    <ln>
+      <lyr d="0.28" s="GOT " t="32.47" />
+      <lyr d="0.41" s="CHUCKS " t="32.75" />
+      <lyr d="0.266" s="ON " t="33.16" />
+    </ln>
+    <ln>
+      <lyr d="0.133" s="WITH " t="33.43" />
+      <lyr d="0.127" s="THAT " t="33.563" />
+      <lyr d="0.35" s="SAINT " t="33.69" />
+      <lyr d="0.57" s="LAURENT " t="34.04" />
+    </ln>
+    <ln>
+      <lyr d="0.23" s="GOTTA " t="34.59" />
+      <lyr d="0.27" s="KISS " t="34.82" />
+      <lyr d="0.35" s="MYSELF " t="35.09" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="I'M " t="35.47" />
+      <lyr d="0.33" s="SO " t="35.6" />
+      <lyr d="0.223" s="PRETTY " t="35.93" />
+    </ln>
+  </pg>
+  <pg id="lyrics.4" d="7.24" t="36.3615">
+    <ln>
+      <lyr d="0.11" s="I'M " t="36.57" />
+      <lyr d="0.29" s="TOO " t="36.68" />
+      <lyr d="0.579" s="HOT " t="36.97" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="CALL " t="38.78" />
+      <lyr d="0.14" s="THE " t="38.91" />
+      <lyr d="0.39" s="PO" t="39.05" />
+      <lyr d="0.08" s="LI" t="39.44" />
+      <lyr d="0.21" s="CE " t="39.52" />
+      <lyr d="0.11" s="AND " t="39.73" />
+      <lyr d="0.27" s="A " t="39.84" />
+      <lyr d="0.153" s="FI" t="40.11" />
+      <lyr d="0.073" s="R" t="40.263" />
+      <lyr d="0.443" s="EMAN " t="40.336" />
+    </ln>
+    <ln>
+      <lyr d="0.09" s="I'M " t="40.8" />
+      <lyr d="0.27" s="TOO " t="40.89" />
+      <lyr d="0.579" s="HOT " t="41.16" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="MAKE " t="42.95" />
+      <lyr d="0.13" s="A " t="43.08" />
+      <lyr d="0.393" s="DRAGON " t="43.21" />
+    </ln>
+  </pg>
+  <pg id="lyrics.5" d="5.523" t="43.6015">
+    <ln>
+      <lyr d="0.35" s="WANNA " t="43.6" />
+      <lyr d="0.363" s="RET" t="43.95" />
+      <lyr d="0.043" s="I" t="44.313" />
+      <lyr d="0.284" s="RE " t="44.356" />
+      <lyr d="0.28" s="MAN " t="44.64" />
+    </ln>
+    <ln>
+      <lyr d="0.08" s="I'M " t="44.92" />
+      <lyr d="0.32" s="TOO " t="45" />
+      <lyr d="0.54" s="HOT " t="45.32" />
+    </ln>
+    <ln>
+      <lyr d="0.11" s="SAY " t="47.4" />
+      <lyr d="0.16" s="M" t="47.51" />
+      <lyr d="0.12" s="Y " t="47.67" />
+      <lyr d="0.299" s="NAME " t="47.79" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="YOU " t="48.05" />
+      <lyr d="0.27" s="KNOW " t="48.18" />
+      <lyr d="0.13" s="WHO " t="48.45" />
+      <lyr d="0.28" s="I " t="48.58" />
+      <lyr d="0.24" s="AM " t="48.86" />
+    </ln>
+  </pg>
+  <pg id="lyrics.6" d="6.355" t="49.125">
+    <ln>
+      <lyr d="0.09" s="I'M " t="49.15" />
+      <lyr d="0.27" s="TOO " t="49.24" />
+      <lyr d="0.68" s="HOT " t="49.51" />
+    </ln>
+    <ln>
+      <lyr d="0.11" s="AM " t="51.33" />
+      <lyr d="0.15" s="I " t="51.44" />
+      <lyr d="0.24" s="BAD " t="51.59" />
+      <lyr d="0.426" s="ABOU" t="51.83" />
+      <lyr d="0.054" s="T " t="52.256" />
+      <lyr d="0.33" s="THAT " t="52.31" />
+      <lyr d="0.196" s="MONEY " t="52.64" />
+    </ln>
+    <ln>
+      <lyr d="0.16" s="BREAK " t="52.83" />
+      <lyr d="0.16" s="IT " t="52.99" />
+      <lyr d="0.366" s="DOWN " t="53.15" />
+    </ln>
+    <ln>
+      <lyr d="0.37" s="GIRLS " t="53.69" />
+      <lyr d="0.28" s="HIT " t="54.06" />
+      <lyr d="0.14" s="YOUR " t="54.34" />
+      <lyr d="0.266" s="HA" t="54.48" />
+      <lyr d="0.224" s="LLE" t="54.746" />
+      <lyr d="0.21" s="LUJAH " t="54.97" />
+    </ln>
+  </pg>
+  <pg id="lyrics.7" d="6.275" t="55.48">
+    <ln>
+      <lyr d="0.37" s="GIRLS " t="55.78" />
+      <lyr d="0.24" s="HIT " t="56.15" />
+      <lyr d="0.12" s="YOUR " t="56.39" />
+      <lyr d="0.29" s="HALLEL" t="56.51" />
+      <lyr d="0.416" s="UJAH " t="56.8" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="G" t="57.83" />
+      <lyr d="0.25" s="IRLS " t="57.96" />
+      <lyr d="0.3" s="HIT " t="58.21" />
+      <lyr d="0.14" s="YOUR " t="58.51" />
+      <lyr d="0.26" s="HALLEL" t="58.65" />
+      <lyr d="0.387" s="UJAH " t="58.91" />
+    </ln>
+    <ln>
+      <lyr d="0.1" s="'CAUSE " t="59.82" />
+      <lyr d="0.53" s="UPTOWN " t="59.92" />
+      <lyr d="0.282" s="FUNK " t="60.45" />
+    </ln>
+    <ln>
+      <lyr d="0.28" s="GON" t="60.73" />
+      <lyr d="0.02" s="' " t="61.01" />
+      <lyr d="0.13" s="GIVE " t="61.03" />
+      <lyr d="0.11" s="IT " t="61.16" />
+      <lyr d="0.11" s="TO " t="61.27" />
+      <lyr d="0.2" s="YOU " t="61.38" />
+    </ln>
+  </pg>
+  <pg id="lyrics.8" d="4.239" t="61.755">
+    <ln>
+      <lyr d="0.13" s="'CAUSE " t="61.93" />
+      <lyr d="0.53" s="UPTOWN " t="62.06" />
+      <lyr d="0.28" s="FUNK " t="62.59" />
+    </ln>
+    <ln>
+      <lyr d="0.24" s="GON' " t="62.82" />
+      <lyr d="0.19" s="GIVE " t="63.06" />
+      <lyr d="0.13" s="IT " t="63.25" />
+      <lyr d="0.1" s="TO " t="63.38" />
+      <lyr d="0.216" s="YOU " t="63.48" />
+    </ln>
+    <ln>
+      <lyr d="0.09" s="'CAUSE " t="64" />
+      <lyr d="0.56" s="UPTOWN " t="64.09" />
+      <lyr d="0.242" s="FUNK " t="64.65" />
+    </ln>
+    <ln>
+      <lyr d="0.273" s="GON" t="64.9" />
+      <lyr d="0.017" s="' " t="65.173" />
+      <lyr d="0.12" s="GIVE " t="65.19" />
+      <lyr d="0.11" s="IT " t="65.31" />
+      <lyr d="0.1" s="TO " t="65.42" />
+      <lyr d="0.249" s="YOU " t="65.52" />
+    </ln>
+  </pg>
+  <pg id="lyrics.9" d="3.782" t="65.9945">
+    <ln>
+      <lyr d="0.38" s="SATURDAY " t="66.22" />
+      <lyr d="0.3" s="NIGHT " t="66.6" />
+    </ln>
+    <ln>
+      <lyr d="0.11" s="AND " t="66.9" />
+      <lyr d="0.186" s="W" t="67.01" />
+      <lyr d="0.094" s="E " t="67.196" />
+      <lyr d="0.24" s="IN " t="67.29" />
+      <lyr d="0.12" s="THE " t="67.53" />
+      <lyr d="0.306" s="SPOT " t="67.65" />
+    </ln>
+    <ln>
+      <lyr d="0.29" s="DON'T " t="68.24" />
+      <lyr d="0.41" s="BELIEVE " t="68.53" />
+      <lyr d="0.16" s="ME " t="68.94" />
+    </ln>
+    <ln>
+      <lyr d="0.32" s="JUST " t="69.05" />
+      <lyr d="0.323" s="WATCH " t="69.37" />
+    </ln>
+  </pg>
+  <pg id="lyrics.10" d="16.043" t="69.7765">
+    <ln>
+      <lyr d="0.26" s="COME " t="69.86" />
+      <lyr d="0.106" s="ON " t="70.12" />
+    </ln>
+    <ln>
+      <lyr d="0.23" s="DON'T " t="76.67" />
+      <lyr d="0.4" s="BELIEVE " t="76.9" />
+      <lyr d="0.16" s="ME " t="77.3" />
+    </ln>
+    <ln>
+      <lyr d="0.34" s="JUST " t="77.41" />
+      <lyr d="0.534" s="WATCH " t="77.75" />
+    </ln>
+    <ln>
+      <lyr d="0.21" s="DON'T " t="85.06" />
+      <lyr d="0.41" s="BELIEVE " t="85.27" />
+      <lyr d="0.16" s="ME " t="85.68" />
+    </ln>
+  </pg>
+  <pg id="lyrics.11" d="4.185" t="85.82">
+    <ln>
+      <lyr d="0.28" s="JUST " t="85.8" />
+      <lyr d="0.57" s="WATCH " t="86.08" />
+    </ln>
+    <ln>
+      <lyr d="0.22" s="DON'T " t="87.1" />
+      <lyr d="0.44" s="BELIEVE " t="87.32" />
+      <lyr d="0.172" s="ME " t="87.76" />
+    </ln>
+    <ln>
+      <lyr d="0.27" s="JUST " t="87.89" />
+      <lyr d="0.486" s="WATCH " t="88.16" />
+    </ln>
+    <ln>
+      <lyr d="0.27" s="DON'T " t="89.17" />
+      <lyr d="0.43" s="BELIEVE " t="89.44" />
+      <lyr d="0.16" s="ME " t="89.87" />
+    </ln>
+  </pg>
+  <pg id="lyrics.12" d="5.405" t="90.005">
+    <ln>
+      <lyr d="0.27" s="JUST " t="89.98" />
+      <lyr d="0.41" s="WATCH " t="90.25" />
+    </ln>
+    <ln>
+      <lyr d="0.25" s="DON'T " t="91.28" />
+      <lyr d="0.43" s="BELIEVE " t="91.53" />
+      <lyr d="0.16" s="ME " t="91.96" />
+    </ln>
+    <ln>
+      <lyr d="0.26" s="JUST " t="92.07" />
+      <lyr d="0.429" s="WATCH " t="92.33" />
+    </ln>
+    <ln>
+      <lyr d="0.2" s="H" t="93.12" />
+      <lyr d="0.27" s="EY " t="93.32" />
+      <lyr d="0.55" s="HEY " t="93.59" />
+      <lyr d="0.52" s="HEY " t="94.14" />
+      <lyr d="0.78" s="OH " t="94.66" />
+    </ln>
+  </pg>
+  <pg id="lyrics.13" d="4" t="95.41">
+    <ln>
+      <lyr d="0.396" s="STOP " t="95.38" />
+    </ln>
+    <ln>
+      <lyr d="0.22" s="WAIT " t="96.42" />
+      <lyr d="0.09" s="A " t="96.64" />
+      <lyr d="0.299" s="MINUTE " t="96.73" />
+    </ln>
+    <ln>
+      <lyr d="0.15" s="FILL " t="97.51" />
+      <lyr d="0.28" s="MY " t="97.66" />
+      <lyr d="0.38" s="CUP " t="97.94" />
+    </ln>
+    <ln>
+      <lyr d="0.15" s="POUR " t="98.32" />
+      <lyr d="0.13" s="SOME " t="98.47" />
+      <lyr d="0.25" s="LIQUOR " t="98.6" />
+      <lyr d="0.12" s="IN " t="98.85" />
+      <lyr d="0.2" s="IT " t="98.97" />
+    </ln>
+  </pg>
+  <pg id="lyrics.14" d="3.77" t="99.41">
+    <ln>
+      <lyr d="0.26" s="TAKE " t="99.65" />
+      <lyr d="0.13" s="A " t="99.91" />
+      <lyr d="0.267" s="SIP " t="100.04" />
+    </ln>
+    <ln>
+      <lyr d="0.3" s="SIGN " t="100.66" />
+      <lyr d="0.13" s="A " t="100.96" />
+      <lyr d="0.217" s="CHECK " t="101.09" />
+    </ln>
+    <ln>
+      <lyr d="0.46" s="JULIO " t="101.71" />
+    </ln>
+    <ln>
+      <lyr d="0.14" s="GET " t="102.5" />
+      <lyr d="0.14" s="THE " t="102.64" />
+      <lyr d="0.291" s="STRETCH " t="102.78" />
+    </ln>
+  </pg>
+  <pg id="lyrics.15" d="6.76" t="103.1805">
+    <ln>
+      <lyr d="0.24" s="RIDE " t="103.29" />
+      <lyr d="0.26" s="TO " t="103.53" />
+      <lyr d="0.627" s="HARLE" t="103.79" />
+      <lyr d="0.453" s="M " t="104.417" />
+      <lyr d="0.29" s="HOLL" t="104.87" />
+      <lyr d="0.207" s="YW" t="105.16" />
+      <lyr d="0.219" s="OOD " t="105.367" />
+    </ln>
+    <ln>
+      <lyr d="0.26" s="JACK" t="105.92" />
+      <lyr d="0.293" s="SO" t="106.18" />
+      <lyr d="0.137" s="N " t="106.473" />
+      <lyr d="0.12" s="M" t="106.61" />
+      <lyr d="0.626" s="ISSISSIPPI " t="106.73" />
+    </ln>
+    <ln>
+      <lyr d="0.12" s="IF " t="107.53" />
+      <lyr d="0.183" s="W" t="107.65" />
+      <lyr d="0.147" s="E " t="107.833" />
+      <lyr d="0.39" s="SHOW " t="107.98" />
+      <lyr d="0.274" s="UP " t="108.37" />
+    </ln>
+    <ln>
+      <lyr d="0.12" s="WE " t="108.65" />
+      <lyr d="0.3" s="GON" t="108.77" />
+      <lyr d="0.02" s="' " t="109.07" />
+      <lyr d="0.33" s="SHOW " t="109.09" />
+      <lyr d="0.39" s="OUT " t="109.42" />
+    </ln>
+  </pg>
+  <pg id="lyrics.16" d="6.112" t="109.94">
+    <ln>
+      <lyr d="0.28" s="SMOOTHER " t="110.07" />
+      <lyr d="0.14" s="THAN " t="110.35" />
+    </ln>
+    <ln>
+      <lyr d="0.12" s="A " t="110.48" />
+      <lyr d="0.26" s="FRESH " t="110.6" />
+      <lyr d="0.27" s="DRY " t="110.86" />
+      <lyr d="0.239" s="SKIPPY " t="111.13" />
+    </ln>
+    <ln>
+      <lyr d="0.11" s="I'M " t="111.71" />
+      <lyr d="0.33" s="TOO " t="111.82" />
+      <lyr d="0.594" s="HOT " t="112.15" />
+    </ln>
+    <ln>
+      <lyr d="0.12" s="CALL " t="114.01" />
+      <lyr d="0.12" s="THE " t="114.13" />
+      <lyr d="0.41" s="PO" t="114.25" />
+      <lyr d="0.08" s="LI" t="114.66" />
+      <lyr d="0.21" s="CE " t="114.74" />
+      <lyr d="0.11" s="AND " t="114.95" />
+      <lyr d="0.25" s="A " t="115.06" />
+      <lyr d="0.153" s="FI" t="115.31" />
+      <lyr d="0.074" s="R" t="115.463" />
+      <lyr d="0.333" s="EM" t="115.537" />
+      <lyr d="0.174" s="AN " t="115.87" />
+    </ln>
+  </pg>
+  <pg id="lyrics.17" d="5.642" t="116.052">
+    <ln>
+      <lyr d="0.11" s="I'M " t="116.06" />
+      <lyr d="0.25" s="TOO " t="116.17" />
+      <lyr d="0.439" s="HOT " t="116.42" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="MAKE " t="118.16" />
+      <lyr d="0.13" s="A " t="118.29" />
+      <lyr d="0.364" s="DRAGON " t="118.42" />
+    </ln>
+    <ln>
+      <lyr d="0.43" s="WANNA " t="118.78" />
+      <lyr d="0.65" s="RETIRE " t="119.21" />
+      <lyr d="0.304" s="MAN " t="119.86" />
+    </ln>
+    <ln>
+      <lyr d="0.09" s="I'M " t="120.16" />
+      <lyr d="0.29" s="TOO " t="120.25" />
+      <lyr d="0.559" s="HOT " t="120.54" />
+    </ln>
+  </pg>
+  <pg id="lyrics.18" d="6.364" t="121.6945">
+    <ln>
+      <lyr d="0.25" s="HEY " t="122.29" />
+      <lyr d="0.2" s="SAY " t="122.54" />
+      <lyr d="0.24" s="MY " t="122.74" />
+      <lyr d="0.261" s="NAME " t="122.98" />
+    </ln>
+    <ln>
+      <lyr d="0.11" s="YOU " t="123.23" />
+      <lyr d="0.27" s="KNOW " t="123.34" />
+      <lyr d="0.13" s="WHO " t="123.61" />
+      <lyr d="0.29" s="I " t="123.74" />
+      <lyr d="0.16" s="AM " t="124.03" />
+    </ln>
+    <ln>
+      <lyr d="0.12" s="I'M " t="124.22" />
+      <lyr d="0.36" s="TOO " t="124.34" />
+      <lyr d="0.507" s="HOT " t="124.7" />
+    </ln>
+    <ln>
+      <lyr d="0.1" s="AM " t="126.4" />
+      <lyr d="0.3" s="I " t="126.5" />
+      <lyr d="0.33" s="BAD " t="126.8" />
+      <lyr d="0.41" s="ABOUT " t="127.13" />
+      <lyr d="0.32" s="THAT " t="127.54" />
+      <lyr d="0.197" s="MONEY " t="127.86" />
+    </ln>
+  </pg>
+  <pg id="lyrics.19" d="6.63" t="128.0585">
+    <ln>
+      <lyr d="0.13" s="BREAK " t="128.06" />
+      <lyr d="0.16" s="IT " t="128.19" />
+      <lyr d="0.367" s="DOWN " t="128.35" />
+    </ln>
+    <ln>
+      <lyr d="0.153" s="G" t="128.81" />
+      <lyr d="0.307" s="IRLS " t="128.963" />
+      <lyr d="0.22" s="HIT " t="129.27" />
+      <lyr d="0.13" s="YOUR " t="129.49" />
+      <lyr d="0.307" s="HALLEL" t="129.62" />
+      <lyr d="0.37" s="UJAH " t="129.927" />
+    </ln>
+    <ln>
+      <lyr d="0.133" s="G" t="130.93" />
+      <lyr d="0.267" s="IRLS " t="131.063" />
+      <lyr d="0.24" s="HIT " t="131.33" />
+      <lyr d="0.14" s="YOUR " t="131.57" />
+      <lyr d="0.631" s="HALLELUJAH " t="131.71" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="G" t="133.04" />
+      <lyr d="0.25" s="IRLS " t="133.17" />
+      <lyr d="0.31" s="HIT " t="133.42" />
+      <lyr d="0.12" s="YOUR " t="133.73" />
+      <lyr d="0.606" s="HALLELUJAH " t="133.85" />
+    </ln>
+  </pg>
+  <pg id="lyrics.20" d="4.316" t="134.688">
+    <ln>
+      <lyr d="0.11" s="'CAUSE " t="134.92" />
+      <lyr d="0.52" s="UPTOW" t="135.03" />
+      <lyr d="0.11" s="N " t="135.55" />
+      <lyr d="0.266" s="FUNK " t="135.66" />
+    </ln>
+    <ln>
+      <lyr d="0.273" s="GON" t="135.93" />
+      <lyr d="0.017" s="' " t="136.203" />
+      <lyr d="0.12" s="GIVE " t="136.22" />
+      <lyr d="0.11" s="IT " t="136.34" />
+      <lyr d="0.08" s="TO " t="136.45" />
+      <lyr d="0.27" s="YOU " t="136.53" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="'CAUSE " t="137.13" />
+      <lyr d="0.52" s="UPTOWN " t="137.26" />
+      <lyr d="0.291" s="FUNK " t="137.78" />
+    </ln>
+    <ln>
+      <lyr d="0.27" s="GON' " t="138.02" />
+      <lyr d="0.1" s="GIVE " t="138.29" />
+      <lyr d="0.13" s="IT " t="138.39" />
+      <lyr d="0.11" s="TO " t="138.52" />
+      <lyr d="0.207" s="YOU " t="138.63" />
+    </ln>
+  </pg>
+  <pg id="lyrics.21" d="4.316" t="139.0035">
+    <ln>
+      <lyr d="0.11" s="'CAUSE " t="139.17" />
+      <lyr d="0.56" s="UPTOWN " t="139.28" />
+      <lyr d="0.244" s="FUNK " t="139.84" />
+    </ln>
+    <ln>
+      <lyr d="0.27" s="GON' " t="140.09" />
+      <lyr d="0.13" s="GIVE " t="140.36" />
+      <lyr d="0.12" s="IT " t="140.49" />
+      <lyr d="0.1" s="TO " t="140.61" />
+      <lyr d="0.229" s="YOU " t="140.71" />
+    </ln>
+    <ln>
+      <lyr d="0.42" s="SATURDAY " t="141.37" />
+      <lyr d="0.264" s="NIGHT " t="141.79" />
+    </ln>
+    <ln>
+      <lyr d="0.13" s="AND " t="142.06" />
+      <lyr d="0.18" s="W" t="142.19" />
+      <lyr d="0.08" s="E " t="142.37" />
+      <lyr d="0.24" s="IN " t="142.45" />
+      <lyr d="0.13" s="THE " t="142.69" />
+      <lyr d="0.329" s="SPOT " t="142.82" />
+    </ln>
+  </pg>
+  <pg id="lyrics.22" d="9.281" t="143.3195">
+    <ln>
+      <lyr d="0.27" s="DON'T " t="143.49" />
+      <lyr d="0.37" s="BELIEVE " t="143.76" />
+      <lyr d="0.16" s="ME " t="144.13" />
+    </ln>
+    <ln>
+      <lyr d="0.29" s="JUST " t="144.24" />
+      <lyr d="0.323" s="WATCH " t="144.53" />
+    </ln>
+    <ln>
+      <lyr d="0.31" s="COME " t="144.95" />
+      <lyr d="0.114" s="ON " t="145.26" />
+    </ln>
+    <ln>
+      <lyr d="0.22" s="DON'T " t="151.84" />
+      <lyr d="0.4" s="BELIEVE " t="152.06" />
+      <lyr d="0.16" s="ME " t="152.46" />
+    </ln>
+  </pg>
+  <pg id="lyrics.23" d="10.48" t="152.6">
+    <ln>
+      <lyr d="0.3" s="JUST " t="152.58" />
+      <lyr d="0.547" s="WATCH " t="152.88" />
+    </ln>
+    <ln>
+      <lyr d="0.26" s="DON'T " t="160.19" />
+      <lyr d="0.39" s="BELIEVE " t="160.45" />
+      <lyr d="0.174" s="ME " t="160.84" />
+    </ln>
+    <ln>
+      <lyr d="0.27" s="JUST " t="160.97" />
+      <lyr d="0.38" s="WATCH " t="161.24" />
+    </ln>
+    <ln>
+      <lyr d="0.24" s="DON'T " t="162.25" />
+      <lyr d="0.45" s="BELIEVE " t="162.49" />
+      <lyr d="0.16" s="ME " t="162.94" />
+    </ln>
+  </pg>
+  <pg id="lyrics.24" d="4.18" t="163.08">
+    <ln>
+      <lyr d="0.26" s="JUST " t="163.06" />
+      <lyr d="0.387" s="WATCH " t="163.32" />
+    </ln>
+    <ln>
+      <lyr d="0.21" s="DON'T " t="164.37" />
+      <lyr d="0.44" s="BELIEVE " t="164.58" />
+      <lyr d="0.16" s="ME " t="165.02" />
+    </ln>
+    <ln>
+      <lyr d="0.27" s="JUST " t="165.13" />
+      <lyr d="0.697" s="WATCH " t="165.4" />
+    </ln>
+    <ln>
+      <lyr d="0.2" s="DON'T " t="166.45" />
+      <lyr d="0.47" s="BELIEVE " t="166.65" />
+      <lyr d="0.16" s="ME " t="167.12" />
+    </ln>
+  </pg>
+  <pg id="lyrics.25" d="10.162" t="167.26">
+    <ln>
+      <lyr d="0.25" s="JUST " t="167.24" />
+      <lyr d="0.417" s="WATCH " t="167.49" />
+    </ln>
+    <ln>
+      <lyr d="0.213" s="H" t="168.23" />
+      <lyr d="0.297" s="EY " t="168.443" />
+      <lyr d="0.56" s="HEY " t="168.74" />
+      <lyr d="0.49" s="HEY " t="169.3" />
+      <lyr d="0.886" s="OH " t="169.79" />
+    </ln>
+    <ln>
+      <lyr d="0.15" s="BEFORE " t="174.42" />
+      <lyr d="0.12" s="WE " t="174.57" />
+      <lyr d="0.103" s="LEAVE " t="174.69" />
+    </ln>
+    <ln>
+      <lyr d="0.153" s="LEMME " t="177.05" />
+      <lyr d="0.12" s="TELL " t="177.203" />
+      <lyr d="0.08" s="Y'ALL " t="177.323" />
+    </ln>
+  </pg>
+  <pg id="lyrics.26" d="7.59" t="177.4215">
+    <ln>
+      <lyr d="0.14" s="A " t="177.44" />
+      <lyr d="0.15" s="LIL' " t="177.58" />
+      <lyr d="0.133" s="SOMETHING " t="177.73" />
+    </ln>
+    <ln>
+      <lyr d="0.48" s="UP" t="178.93" />
+      <lyr d="0.37" s="TOW" t="179.41" />
+      <lyr d="0.12" s="N " t="179.78" />
+      <lyr d="0.27" s="FUNK " t="179.9" />
+      <lyr d="0.16" s="YOU " t="180.17" />
+      <lyr d="0.226" s="UP " t="180.33" />
+    </ln>
+    <ln>
+      <lyr d="0.47" s="UPTOWN " t="181" />
+      <lyr d="0.25" s="FUNK " t="181.47" />
+      <lyr d="0.14" s="YOU " t="181.72" />
+      <lyr d="0.3" s="UP " t="181.86" />
+    </ln>
+    <ln>
+      <lyr d="0.5" s="UP" t="183.05" />
+      <lyr d="0.373" s="TOW" t="183.55" />
+      <lyr d="0.137" s="N " t="183.923" />
+      <lyr d="0.29" s="FUNK " t="184.06" />
+      <lyr d="0.13" s="YOU " t="184.35" />
+      <lyr d="0.394" s="UP " t="184.48" />
+    </ln>
+  </pg>
+  <pg id="lyrics.27" d="8.338" t="185.012">
+    <ln>
+      <lyr d="0.5" s="UPTOWN " t="185.15" />
+      <lyr d="0.28" s="FUNK " t="185.65" />
+      <lyr d="0.13" s="YOU " t="185.93" />
+      <lyr d="0.266" s="UP " t="186.06" />
+    </ln>
+    <ln>
+      <lyr d="0.11" s="I " t="186.84" />
+      <lyr d="0.26" s="SAID " t="186.95" />
+      <lyr d="0.52" s="UP" t="187.21" />
+      <lyr d="0.397" s="TOW" t="187.73" />
+      <lyr d="0.133" s="N " t="188.127" />
+      <lyr d="0.28" s="FUNK " t="188.26" />
+      <lyr d="0.14" s="YOU " t="188.54" />
+      <lyr d="0.28" s="UP " t="188.68" />
+    </ln>
+    <ln>
+      <lyr d="0.5" s="UPTOWN " t="189.33" />
+      <lyr d="0.26" s="FUNK " t="189.83" />
+      <lyr d="0.14" s="YOU " t="190.09" />
+      <lyr d="0.4" s="UP " t="190.23" />
+    </ln>
+    <ln>
+      <lyr d="0.54" s="UP" t="191.37" />
+      <lyr d="0.4" s="TOW" t="191.91" />
+      <lyr d="0.13" s="N " t="192.31" />
+      <lyr d="0.25" s="FUNK " t="192.44" />
+      <lyr d="0.15" s="YOU " t="192.69" />
+      <lyr d="0.38" s="UP " t="192.84" />
+    </ln>
+  </pg>
+  <pg id="lyrics.28" d="5.092" t="193.35">
+    <ln>
+      <lyr d="0.51" s="UPTOWN " t="193.48" />
+      <lyr d="0.28" s="FUNK " t="193.99" />
+      <lyr d="0.13" s="YOU " t="194.27" />
+      <lyr d="0.28" s="UP " t="194.4" />
+    </ln>
+    <ln>
+      <lyr d="0.12" s="COME " t="195.03" />
+      <lyr d="0.44" s="ON " t="195.15" />
+      <lyr d="0.487" s="DANCE " t="195.59" />
+    </ln>
+    <ln>
+      <lyr d="0.28" s="JUMP " t="196.33" />
+      <lyr d="0.27" s="ON " t="196.61" />
+      <lyr d="0.26" s="IT " t="196.88" />
+    </ln>
+    <ln>
+      <lyr d="0.11" s="IF " t="197.4" />
+      <lyr d="0.16" s="YOU " t="197.51" />
+      <lyr d="0.774" s="SEXY " t="197.67" />
+    </ln>
+  </pg>
+  <pg id="lyrics.29" d="4.126" t="198.442">
+    <ln>
+      <lyr d="0.26" s="THEN " t="198.44" />
+      <lyr d="0.24" s="FLAUNT " t="198.7" />
+      <lyr d="0.28" s="IT " t="198.94" />
+    </ln>
+    <ln>
+      <lyr d="0.1" s="IF " t="199.39" />
+      <lyr d="0.29" s="YOU " t="199.49" />
+      <lyr d="0.654" s="FREAKY " t="199.78" />
+    </ln>
+    <ln>
+      <lyr d="0.31" s="THEN " t="200.49" />
+      <lyr d="0.21" s="OW" t="200.8" />
+      <lyr d="0.09" s="N " t="201.01" />
+      <lyr d="0.24" s="IT " t="201.1" />
+    </ln>
+    <ln>
+      <lyr d="0.28" s="DON'T " t="201.56" />
+      <lyr d="0.27" s="BRAG " t="201.84" />
+      <lyr d="0.36" s="ABOUT " t="202.11" />
+      <lyr d="0.066" s="IT " t="202.47" />
+    </ln>
+  </pg>
+  <pg id="lyrics.30" d="4.079" t="202.568">
+    <ln>
+      <lyr d="0.29" s="COME " t="202.6" />
+      <lyr d="0.25" s="SHOW " t="202.89" />
+      <lyr d="0.34" s="ME " t="203.14" />
+    </ln>
+    <ln>
+      <lyr d="0.11" s="COME " t="203.55" />
+      <lyr d="0.23" s="ON " t="203.66" />
+      <lyr d="0.367" s="DANCE " t="203.89" />
+    </ln>
+    <ln>
+      <lyr d="0.27" s="JUMP " t="204.69" />
+      <lyr d="0.26" s="ON " t="204.96" />
+      <lyr d="0.266" s="IT " t="205.22" />
+    </ln>
+    <ln>
+      <lyr d="0.14" s="IF " t="205.6" />
+      <lyr d="0.27" s="YOU " t="205.74" />
+      <lyr d="0.643" s="SEXY " t="206.01" />
+    </ln>
+  </pg>
+  <pg id="lyrics.31" d="4.358" t="206.6465">
+    <ln>
+      <lyr d="0.38" s="THEN " t="206.64" />
+      <lyr d="0.347" s="FLAUNT " t="207.02" />
+      <lyr d="0.132" s="IT " t="207.367" />
+    </ln>
+    <ln>
+      <lyr d="0.12" s="WELL " t="207.85" />
+      <lyr d="0.13" s="IT'S " t="207.97" />
+      <lyr d="0.38" s="SATURDAY " t="208.1" />
+      <lyr d="0.307" s="NIGHT " t="208.48" />
+    </ln>
+    <ln>
+      <lyr d="0.12" s="AND " t="208.76" />
+      <lyr d="0.197" s="W" t="208.88" />
+      <lyr d="0.093" s="E " t="209.077" />
+      <lyr d="0.26" s="IN " t="209.17" />
+      <lyr d="0.15" s="THE " t="209.43" />
+      <lyr d="0.254" s="SPOT " t="209.58" />
+    </ln>
+    <ln>
+      <lyr d="0.26" s="DON'T " t="210.2" />
+      <lyr d="0.41" s="BELIEVE " t="210.46" />
+      <lyr d="0.16" s="ME " t="210.87" />
+    </ln>
+  </pg>
+  <pg id="lyrics.32" d="16.705" t="211.005">
+    <ln>
+      <lyr d="0.29" s="JUST " t="210.98" />
+      <lyr d="0.48" s="WATCH " t="211.27" />
+      <lyr d="0.273" s="COME " t="211.75" />
+      <lyr d="0.108" s="ON " t="212.023" />
+    </ln>
+    <ln>
+      <lyr d="0.25" s="DON'T " t="218.57" />
+      <lyr d="0.4" s="BELIEVE " t="218.82" />
+      <lyr d="0.16" s="ME " t="219.22" />
+    </ln>
+    <ln>
+      <lyr d="0.28" s="JUST " t="219.34" />
+      <lyr d="0.597" s="WATCH " t="219.62" />
+    </ln>
+    <ln>
+      <lyr d="0.25" s="DON'T " t="226.92" />
+      <lyr d="0.4" s="BELIEVE " t="227.17" />
+      <lyr d="0.16" s="ME " t="227.57" />
+    </ln>
+  </pg>
+  <pg id="lyrics.33" d="4.195" t="227.71">
+    <ln>
+      <lyr d="0.29" s="JUST " t="227.69" />
+      <lyr d="0.487" s="WATCH " t="227.98" />
+    </ln>
+    <ln>
+      <lyr d="0.22" s="DON'T " t="229" />
+      <lyr d="0.43" s="BELIEVE " t="229.22" />
+      <lyr d="0.174" s="ME " t="229.65" />
+    </ln>
+    <ln>
+      <lyr d="0.26" s="JUST " t="229.78" />
+      <lyr d="0.563" s="WATCH " t="230.04" />
+    </ln>
+    <ln>
+      <lyr d="0.26" s="DON'T " t="231.09" />
+      <lyr d="0.42" s="BELIEVE " t="231.35" />
+      <lyr d="0.16" s="ME " t="231.77" />
+    </ln>
+  </pg>
+  <pg id="lyrics.34" d="5.37" t="231.905">
+    <ln>
+      <lyr d="0.26" s="JUST " t="231.88" />
+      <lyr d="0.603" s="WATCH " t="232.14" />
+    </ln>
+    <ln>
+      <lyr d="0.24" s="DON'T " t="233.18" />
+      <lyr d="0.42" s="BELIEVE " t="233.42" />
+      <lyr d="0.16" s="ME " t="233.84" />
+    </ln>
+    <ln>
+      <lyr d="0.26" s="JUST " t="233.96" />
+      <lyr d="0.514" s="WATCH " t="234.22" />
+    </ln>
+    <ln>
+      <lyr d="0.2" s="H" t="235.02" />
+      <lyr d="0.27" s="EY " t="235.22" />
+      <lyr d="0.5" s="HEY " t="235.49" />
+      <lyr d="0.56" s="HEY " t="235.99" />
+      <lyr d="0.66" s="OH " t="236.55" />
+    </ln>
+  </pg>
+  <pg id="lyrics.35" d="7.998" t="237.275">
+    <ln>
+      <lyr d="0.54" s="UP" t="237.34" />
+      <lyr d="0.397" s="TOW" t="237.88" />
+      <lyr d="0.133" s="N " t="238.277" />
+      <lyr d="0.25" s="FUNK " t="238.41" />
+      <lyr d="0.15" s="YOU " t="238.66" />
+      <lyr d="0.36" s="UP " t="238.81" />
+    </ln>
+    <ln>
+      <lyr d="0.44" s="UPTOW" t="239.43" />
+      <lyr d="0.08" s="N " t="239.87" />
+      <lyr d="0.27" s="FUNK " t="239.95" />
+      <lyr d="0.13" s="YOU " t="240.22" />
+      <lyr d="0.286" s="UP " t="240.35" />
+    </ln>
+    <ln>
+      <lyr d="0.52" s="UP" t="241.51" />
+      <lyr d="0.39" s="TOW" t="242.03" />
+      <lyr d="0.13" s="N " t="242.42" />
+      <lyr d="0.26" s="FUNK " t="242.55" />
+      <lyr d="0.14" s="YOU " t="242.81" />
+      <lyr d="0.314" s="UP " t="242.95" />
+    </ln>
+    <ln>
+      <lyr d="0.53" s="UPTOWN " t="243.59" />
+      <lyr d="0.27" s="FUNK " t="244.12" />
+      <lyr d="0.14" s="YOU " t="244.39" />
+      <lyr d="0.326" s="UP " t="244.53" />
+    </ln>
+  </pg>
+  <pg id="lyrics.36" d="8.342" t="245.273">
+    <ln>
+      <lyr d="0.52" s="UP" t="245.69" />
+      <lyr d="0.38" s="TOW" t="246.21" />
+      <lyr d="0.14" s="N " t="246.59" />
+      <lyr d="0.26" s="FUNK " t="246.73" />
+      <lyr d="0.14" s="YOU " t="246.99" />
+      <lyr d="0.306" s="UP " t="247.13" />
+    </ln>
+    <ln>
+      <lyr d="0.46" s="UPTOW" t="247.76" />
+      <lyr d="0.09" s="N " t="248.22" />
+      <lyr d="0.25" s="FUNK " t="248.31" />
+      <lyr d="0.14" s="YOU " t="248.56" />
+      <lyr d="0.32" s="UP " t="248.7" />
+    </ln>
+    <ln>
+      <lyr d="0.52" s="UP" t="249.85" />
+      <lyr d="0.373" s="TOW" t="250.37" />
+      <lyr d="0.137" s="N " t="250.743" />
+      <lyr d="0.28" s="FUNK " t="250.88" />
+      <lyr d="0.16" s="YOU " t="251.16" />
+      <lyr d="0.286" s="UP " t="251.32" />
+    </ln>
+    <ln>
+      <lyr d="0.51" s="UPTOWN " t="251.95" />
+      <lyr d="0.26" s="FUNK " t="252.46" />
+      <lyr d="0.14" s="YOU " t="252.72" />
+      <lyr d="0.36" s="UP " t="252.86" />
+    </ln>
+  </pg>
+  <pg id="lyrics.37" d="10.911" t="253.615">
+    <ln>
+      <lyr d="0.53" s="UP" t="254.01" />
+      <lyr d="0.397" s="TOW" t="254.54" />
+      <lyr d="0.133" s="N " t="254.937" />
+      <lyr d="0.26" s="FUNK " t="255.07" />
+      <lyr d="0.14" s="YOU " t="255.33" />
+      <lyr d="0.306" s="UP " t="255.47" />
+    </ln>
+    <ln>
+      <lyr d="0.49" s="UPTOWN " t="256.12" />
+      <lyr d="0.29" s="FUNK " t="256.61" />
+      <lyr d="0.12" s="YOU " t="256.9" />
+      <lyr d="0.274" s="UP " t="257.02" />
+    </ln>
+    <ln>
+      <lyr d="0.52" s="UP" t="258.2" />
+      <lyr d="0.4" s="TOW" t="258.72" />
+      <lyr d="0.13" s="N " t="259.12" />
+      <lyr d="0.25" s="FUNK " t="259.25" />
+      <lyr d="0.14" s="YOU " t="259.5" />
+      <lyr d="0.346" s="UP " t="259.64" />
+    </ln>
+    <ln>
+      <lyr d="0.51" s="UPTOWN " t="260.28" />
+      <lyr d="0.27" s="FUNK " t="260.79" />
+      <lyr d="0.14" s="YOU " t="261.06" />
+      <lyr d="0.326" s="UP " t="261.2" />
+    </ln>
+  </pg>
+  <pg id="credits_page" d="19.694" t="264.526">
+    <ln>WRITTEN BY</ln>
+    <ln>NICHOLAUS WILLIAMS, DEVON GALLASPY, JEFF BHASKER, MARK RONSON, PHILLIP LAWRENCE, PETER GENE HERNANDEZ</ln>
+    <ln></ln>
+    <ln>ALL RIGHTS RESERVED</ln>
+    <ln>USED BY PERMISSION</ln>
+  </pg>
+</karaoke>
